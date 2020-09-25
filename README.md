@@ -1,2 +1,2 @@
 # Web-Music-Player
-Ongoing Project
+A simple web music player built with JavaScript
